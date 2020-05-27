@@ -9,6 +9,8 @@ Built with
 - Weather predictions in three hour intervals
 - Web request, API call to openweathermap.org, error handeling
 - JSONDecoder with codable
+- Multithreaded for interface and back end perfomance
+- Reactive "Live" interface
 - Scroll to refresh
 - UI in storyboard
 - Scales on iPhones and iPads
