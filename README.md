@@ -1,7 +1,7 @@
 ![Header](/Images/Hero.png)
 
 # SimpleWeatherTest
-A Simple multiplatform weather app with city search.
+A Simple multiplatform weather app with city search. Designed to show a range of basic skills in iOS development without honing in on design.
 
 UIKit, CoreLocation, Foundation, Codable.
 Built with 
